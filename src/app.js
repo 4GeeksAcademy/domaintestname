@@ -2,10 +2,10 @@
 import "bootstrap";
 import "./style.css";
 
-let pronoun = ["our", "my", "your"];
-let adjective = ["black", "brown", "yellow", "red"];
-let noun = ["cat", "kangaroo", "cow", "turtle"];
-let extension = [".it", ".com", ".eu", ".fr", ".de", ".es"];
+let pronoun = ["your", "our", "their"];
+let adjective = ["pink", "grey", "blue", "green"];
+let noun = ["T-Rex", "koala", "bat", "caiman"];
+let extension = [".net", ".com", ".org", ".ve", ".ca", ".um"];
 let domainNamesArray = [];
 
 for (let i = 0; i < pronoun.length; i++) {
